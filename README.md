@@ -1,5 +1,5 @@
 # microfinance-react-app
-website is built using React and React Router for client-side routing. It's organized into different components and routes for modularity and easy maintenance. The components in the "Components" folder are used to create a consistent and reusable UI, while the "Routes" folder houses the main content of each page.
+This website is built using React and React Router for client-side routing. It's organized into different components and routes for modularity and easy maintenance. The components in the "Components" folder are used to create a consistent and reusable UI, while the "Routes" folder houses the main content of each page.
 
 It also has a simple backend for receiving data from a contact form by setting up a server, defining routes, and handling POST requests using Node.js and Express.js.
 ![contact form](https://github.com/jimmyurl/microfinance-react-app/assets/33938444/8d929125-90cd-4cb7-8d68-c943debf84e0)
